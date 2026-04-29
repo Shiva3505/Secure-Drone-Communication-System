@@ -5,16 +5,8 @@ A Python implementation of a cryptographically secure communication protocol bet
 ---
 
 ## 📁 Project Structure
-secure-drone-comms/
-├── main.py                   # Entry point — orchestrates the full protocol
-├── key_exchange.py           # Diffie-Hellman key exchange + HKDF derivation
-├── encryption.py             # RSA-OAEP key wrapping + AES-128-CBC encryption
-├── authentication.py         # PBKDF2-HMAC-SHA256 password authentication
-├── integrity.py              # HMAC-SHA256 message authentication code
-├── signature.py              # RSA digital signature (sign + verify)
-├── output_roll_number.pdf    # PDF-1: Execution output screenshots
-├── code_roll_number.pdf      # PDF-2: Code listing + technical report
-└── README.md
+<img width="847" height="298" alt="{CF330B55-DA1B-43EF-85EC-CCADCC9F4E2C}" src="https://github.com/user-attachments/assets/4fb838d7-7d86-465b-a3e9-e3689beac2d3" />
+
 ---
 
 ## 🔐 Security Architecture
