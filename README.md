@@ -306,7 +306,7 @@ The GCS immediately rejects it because the nonce is already in the `used_nonces`
 
 ## 📄 License
 
-This project was created for academic purposes as part of a Cryptography & Network Security course assignment.
+This project was created for academic purposes as part of a Cyber Security course assignment.
 
 ---
 
