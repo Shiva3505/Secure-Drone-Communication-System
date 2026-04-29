@@ -278,22 +278,7 @@ if received_nonce in used_nonces:
 
 The GCS immediately rejects it because the nonce is already in the `used_nonces` set.
 
----
 
-## 📋 Assignment Marks
-
-| Component | Max Marks | Status |
-|---|---|---|
-| Key Exchange (DH + HKDF) | 2 | ✅ |
-| Hybrid Encryption (RSA + AES) | 2 | ✅ |
-| Authentication (PBKDF2) | 2 | ✅ |
-| Digital Signature (RSA) | 1.5 | ✅ |
-| Message Integrity (HMAC) | 1.5 | ✅ |
-| Replay Protection (nonce + timestamp) | 1 | ✅ |
-| **Total** | **10** | ✅ |
-| Bonus (Replay attack demo) | +1 | ✅ |
-
----
 
 ## 🧪 Dependencies
 
